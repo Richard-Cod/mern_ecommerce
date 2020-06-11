@@ -1,0 +1,11 @@
+export const CARD_ADD_ITEM = "CARD_ADD_ITEM";
+export const CARD_ADD_ITEM_FAIL = "CARD_ADD_ITEM_FAIL";
+export const CARD_ADD_ITEM_REQUEST = "CARD_ADD_ITEM_REQUEST";
+
+
+
+export const CARD_NUMBER_ITEM = "CARD_NUMBER_ITEM";
+
+
+
+export const CARD_REMOVE_ITEM = "CARD_REMOVE_ITEM";
